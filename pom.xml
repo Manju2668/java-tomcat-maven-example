@@ -30,8 +30,8 @@
                   http://localhost:9000
                 </sonar.host.url>
             </properties>
-        </profile> -->
-     </profiles>
+        </profile> 
+     </profiles>-->
   <build>
     <finalName>java-tomcat-maven-example</finalName>
     <plugins>
